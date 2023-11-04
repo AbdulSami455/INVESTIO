@@ -1,7 +1,7 @@
 **Introduction**
 
 
-Financial Asset Management App
+Financial Asset Management App for Stocks
 
 **Requirements**
 
